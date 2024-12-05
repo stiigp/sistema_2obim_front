@@ -30,7 +30,7 @@ function App() {
     return (
       <div className="App">
         <ContextoUsuario.Provider value={{ usuario, setUsuario }}>
-          <BrowserRouter>
+          <BrowserRouter basename='/sistema_2obim_front'>
             {
               //A ordem das rotas é importante
             }
