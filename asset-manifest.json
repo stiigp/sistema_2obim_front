@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sistema_2obim_front/static/css/main.d221dc40.css",
+    "main.js": "/sistema_2obim_front/static/js/main.52103bf7.js",
+    "index.html": "/sistema_2obim_front/index.html",
+    "main.d221dc40.css.map": "/sistema_2obim_front/static/css/main.d221dc40.css.map",
+    "main.52103bf7.js.map": "/sistema_2obim_front/static/js/main.52103bf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.52103bf7.js"
+  ]
+}
